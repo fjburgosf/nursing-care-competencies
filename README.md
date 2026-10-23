@@ -18,7 +18,7 @@ described below.
 ### 1. ICFES microdata (DataIcfes)
 
 The individual results are administered by the Colombian Institute for Educational Evaluation (ICFES) and are
-available through the [DataIcfes](https://www.icfes.gov.co/web/guest/datos-abiertos) repository, which requires
+available through the [DataIcfes](https://www.icfes.gov.co/investigaciones/data-icfes/) repository, which requires
 registration and a data request. Having these files is a requirement to run the analysis:
 
 | File | Years or periods | Folder |
